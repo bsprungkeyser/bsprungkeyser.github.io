@@ -1,0 +1,20 @@
+- title: "Sandpaper: Mitigating performance interference in CDN edge proxies"
+  authors: Jeffrey Helt, Guoyao Feng, Srinivasan Seshan, Vyas Sekar
+  status: Work in progress (under review)
+
+- title: "Alembic: Automated Model Inference for Stateful Network Functions"
+  authors: Soo-Jin Moon, Jeffrey Helt, Yifei Yuan, Yves Bieri, Sujata Banerjee, Vyas Sekar, Wenfei Wu, Mihalis Yannakakis, Ying Zhang
+  venue_prefix: "In Proc."
+  venue: 16th USENIX NSDI
+  venue_link: https://www.usenix.org/conference/nsdi19/
+  year: 2019
+  paper: moon-alembic-2019.pdf
+  slides: moon-alembic-2019-slides.pdf
+
+- title: Learning to Associate Words and Images Using a Large-scale Graph
+  authors: Heqing Ya, Haonan Sun, Jeffrey Helt, Tai Sing Lee
+  venue_prefix: "In Proc."
+  venue: 14th Computer and Robot Vision (CRV)
+  venue_link: http://www.computerrobotvision.org/2017/
+  year: 2017
+  paper: ya-learning-2017.pdf

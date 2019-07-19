@@ -1,0 +1,51 @@
+---
+---
+$sidebar-bg-color: #191D32;
+$sidebar-sticky: false;
+$root-font-family: 'Source Sans Pro', sans-serif;
+$large-font-size: 1rem !default;
+$root-font-size: 1rem !default;
+
+@import "hydeout";
+
+.home #sidebar .site-title {
+    font-size: 2.5rem;
+}
+
+.home #profile-photo {
+    height: 10em;
+    width: auto;
+    margin: 0 auto;
+    margin-bottom: 1em;
+}
+
+@media (min-width: $large-breakpoint) {
+    .home #profile-photo {
+	margin: 0;
+	margin-bottom: 1em;
+    }
+}
+
+#sidebar .lead {
+    font-size: 1em;
+    margin-bottom: 0.5em;
+}
+
+#sidebar #icons {
+    max-width: 100%;
+    justify-content: center;
+
+    @media (min-width: $large-breakpoint) {
+	margin-left: -0.5em;
+    }
+}
+
+#sidebar #icons > a {
+    font-size: 1rem;
+    display: inline-block;
+    margin: 0 0.5em;
+}
+
+.container .content {
+    max-width: 54rem;
+}

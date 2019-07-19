@@ -1,0 +1,26 @@
+<div id="icons">
+  {% if site.email %}
+  <a href="mailto:{{ site.email }}">
+    <i class="fa fa-envelope"></i>
+    {{ site.email }}
+  </a><br/>
+  {% endif %}
+  {% if site.phone %}
+  <a id="phone" href="tel:{{ site.phone }}">
+    <i class="fa fa-phone-square"></i>
+    {{ site.phone }}
+  </a><br/>
+  {% endif %}
+  {% if site.scholar_user %}
+  <a href="https://scholar.google.com/citations?user={{ site.scholar_user | cgi_escape | escape }}">
+    <i class="fa fa-graduation-cap"></i>
+    Google Scholar
+  </a><br/>
+  {% endif %}
+  {% if site.cv_path %}
+  <a id="cv" href="{{ site.cv_path | prepend: site.baseurl }}">
+    <i class="fa fa-file"></i>
+    CV
+  </a>
+  {% endif %}
+</div>
