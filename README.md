@@ -1,2 +1,0 @@
-# bsprungkeyser.github.io
-Website 
