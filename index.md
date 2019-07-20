@@ -2,7 +2,7 @@
 layout: index
 title: Home
 ---
-I am a PhD student in Computer Science at Harvard. 
+I am a PhD student in Economics at Harvard. 
 
 ## Working Papers
 {%- assign publications = site.data.publications -%}
@@ -13,8 +13,8 @@ I am a PhD student in Computer Science at Harvard.
 * **{{ pub.title }}**  
 {{ pub.authors }}  
 {% if pub.status %}*{{ pub.status }}*  {%- endif -%}
-{% if pub.paper %}[[paper]]({{ papers_dir | prepend: site.baseurl | append: pub.paper }}){% endif %}
-{% if pub.slides %}[[slides]]({{ slides_dir | prepend: site.baseurl | append: pub.slides }}){% endif %}
-{% if pub.website %}[[website]]({{ pub.website }}){% endif %}
+{% if pub.paper %}[[Paper -- July 2019]]({{ papers_dir | prepend: site.baseurl | append: pub.paper }}){% endif %}
+{% if pub.slides %}[[Executive Summary]]({{ slides_dir | prepend: site.baseurl | append: pub.slides }}){% endif %}
+{% if pub.website %}[[Interactive Website]]({{ pub.website }}){% endif %}
 {% endfor %}
 

@@ -6,13 +6,11 @@ theme: jekyll-theme-hydeout
 paginate: 5
 
 # Site settings
-title: Jeffrey Helt
-description: "Computer Science PhD Student<br/>CS 314, Princeton University"
+title: Ben Sprung-Keyser
+description: "Economics PhD Student<br/> Harvard University"
 baseurl: ""
-url: "https://www.cs.princeton.edu"
+url: ""
 
 # Social settings
-email: jhelt@cs.princeton.edu
-phone: +1 203 246 5697
-cv_path: /assets/cv.pdf
+email: bsprungkeyser@g.harvard.edu
 profile_photo_path: /assets/images/profile-photo.jpeg
