@@ -6,7 +6,8 @@ theme: jekyll-theme-hydeout
 remote_theme: fongandrew/hydeout
 
 # Site settings
-title: "Ben <br/>Sprung-Keyser"
+title: "Ben Sprung-Keyser"
+name: "Ben <br/>Sprung-Keyser"
 description: "Economics PhD Student<br/> Harvard University"
 baseurl: ""
 url: ""
