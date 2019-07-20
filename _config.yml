@@ -8,12 +8,11 @@ paginate: 5
 # Site settings
 title: Jeffrey Helt
 description: "Computer Science PhD Student<br/>CS 314, Princeton University"
-baseurl: "/~jhelt"
+baseurl: ""
 url: "https://www.cs.princeton.edu"
 
 # Social settings
 email: jhelt@cs.princeton.edu
 phone: +1 203 246 5697
-scholar_user: g4vbw9gAAAAJ
 cv_path: /assets/cv.pdf
 profile_photo_path: /assets/images/profile-photo.jpeg
