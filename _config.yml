@@ -6,7 +6,7 @@ theme: jekyll-theme-hydeout
 remote_theme: fongandrew/hydeout
 
 # Site settings
-title: Ben Sprung-Keyser
+title: "Ben <br/>Sprung-Keyser"
 description: "Economics PhD Student<br/> Harvard University"
 baseurl: ""
 url: ""
@@ -14,3 +14,4 @@ url: ""
 # Social settings
 email: bsprungkeyser@g.harvard.edu
 profile_photo_path: /assets/images/profile-photo.jpeg
+twitter_username: bsprungkeyser

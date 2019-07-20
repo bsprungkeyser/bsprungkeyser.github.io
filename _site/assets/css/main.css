@@ -829,7 +829,7 @@ button.disqus-load {
     animation: posts-for-tag-fade-in 0.6s ease-in-out; }
 
 .home #sidebar .site-title {
-  font-size: 2.5rem; }
+  font-size: 2rem; }
 
 .home #profile-photo {
   height: 10em;
@@ -853,7 +853,7 @@ button.disqus-load {
       margin-left: -0.5em; } }
 
 #sidebar #icons > a {
-  font-size: 1rem;
+  font-size: 0.9rem;
   display: inline-block;
   margin: 0 0.5em; }
 
