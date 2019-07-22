@@ -2,7 +2,7 @@
 markdown: kramdown
 
 # Theme settings
-theme: jekyll-theme-hydeout
+theme: jekyll-theme-cayman
 remote_theme: fongandrew/hydeout
 
 # Site settings
