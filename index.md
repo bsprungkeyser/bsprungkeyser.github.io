@@ -6,7 +6,7 @@ I am a PhD student in Economics at Harvard. My current research is in the fields
 
 I received in AB in Economics from Harvard in 2015 and an MPhil in Economics from the University of Oxford in 2017. 
 
-## Working Papers
+## Publications
 {%- assign publications = site.data.publications -%}
 {%- assign papers_dir = "/assets/papers/" -%}
 {%- assign slides_dir = "/assets/slides/" -%}
