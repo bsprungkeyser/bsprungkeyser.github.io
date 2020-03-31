@@ -4,7 +4,7 @@ title: Home
 ---
 I am a PhD student in Economics at Harvard. My current research is in the fields of public economics and labor economics. 
 
-I received in AB in Economics from Harvard in 2015 and an MPhil in Economics from the University of Oxford in 2017. 
+I received an AB in Economics from Harvard in 2015 and an MPhil in Economics from the University of Oxford in 2017. 
 
 ## Publications
 {%- assign publications = site.data.publications -%}
