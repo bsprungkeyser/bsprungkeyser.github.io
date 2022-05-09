@@ -30,5 +30,6 @@ I received an AB in Economics from Harvard in 2015 and an MPhil in Economics fro
 * **{{ pub.title }}**  
 {{ pub.authors }}  
 {% if pub.paper %}[[Paper]]({{ papers_dir | prepend: site.baseurl | append: pub.paper }}){% endif %}
+{% if pub.slides %}[[Previous Version]]({{ slides_dir | prepend: site.baseurl | append: pub.slides }}){% endif %}
 {% endfor %}
 
