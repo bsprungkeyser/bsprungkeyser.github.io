@@ -18,7 +18,6 @@ I received an AB in Economics from Harvard in 2015 and an MPhil in Economics fro
 {% if pub.website %}[[Interactive Data Tool]]({{ pub.website }}){% endif %}
 {% endfor %}
 
-
 ## Publications
 {%- assign publications = site.data.publications -%}
 {%- assign papers_dir = "/assets/papers/" -%}
