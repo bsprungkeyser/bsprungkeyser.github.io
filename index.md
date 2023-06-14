@@ -16,7 +16,7 @@ I received a PhD in Economics from Harvard in 2023, an MPhil in Economics from t
 {{ pub.authors }}  
 {% if pub.paper %}[[Paper]]({{ papers_dir | prepend: site.baseurl | append: pub.paper }}){% endif %}
 {% if pub.website %}[[Interactive Data Tool]]({{ pub.website }}){% endif %}
-{% if pub.details %}[[Paper Details]]({{ pub.website }}){% endif %}
+{% if pub.details %}[[Paper Details]]({{ pub.details }}){% endif %}
 {% endfor %}
 
 ## Publications
