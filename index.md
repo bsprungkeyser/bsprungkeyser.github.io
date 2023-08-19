@@ -6,18 +6,6 @@ I am a postdoctoral research fellow at Opportunity Insights at Harvard. My curre
 
 I received a PhD in Economics from Harvard in 2023, an MPhil in Economics from the University of Oxford in 2017, and an AB in Economics from Harvard in 2015.
 
-## Working Papers
-{%- assign publications = site.data.working-%}
-{%- assign papers_dir = "/assets/papers/" -%}
-{%- assign slides_dir = "/assets/slides/" -%}
-
-{% for pub in publications %}
-* **{{ pub.title }}**  
-{{ pub.authors }}  
-{% if pub.paper %}[[Paper]]({{ papers_dir | prepend: site.baseurl | append: pub.paper }}){% endif %}
-{% if pub.website %}[[Interactive Data Tool]]({{ pub.website }}){% endif %}
-{% endfor %}
-
 ## Publications
 {%- assign publications = site.data.publications -%}
 {%- assign papers_dir = "/assets/papers/" -%}
@@ -31,6 +19,18 @@ I received a PhD in Economics from Harvard in 2023, an MPhil in Economics from t
 {% if pub.paper %}[[Paper]]({{ papers_dir | prepend: site.baseurl | append: pub.paper }}){% endif %}
 {% if pub.slides %}[[Executive Summary]]({{ slides_dir | prepend: site.baseurl | append: pub.slides }}){% endif %}
 {% if pub.website %}[[Interactive Website]]({{ pub.website }}){% endif %}
+{% endfor %}
+
+## Working Papers
+{%- assign publications = site.data.working-%}
+{%- assign papers_dir = "/assets/papers/" -%}
+{%- assign slides_dir = "/assets/slides/" -%}
+
+{% for pub in publications %}
+* **{{ pub.title }}**  
+{{ pub.authors }}  
+{% if pub.paper %}[[Paper]]({{ papers_dir | prepend: site.baseurl | append: pub.paper }}){% endif %}
+{% if pub.website %}[[Interactive Data Tool]]({{ pub.website }}){% endif %}
 {% endfor %}
 
 ## Notes
