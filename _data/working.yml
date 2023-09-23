@@ -5,6 +5,13 @@
   venue_link: ""
   paper: Tax_Audits_BHSKS.pdf
 
+- title: "State Taxes, Migration, and Capital Gains Realizations"
+  authors: Lucas Goodman and Ben Sprung-Keyser
+  venue_prefix: "" 
+  venue: "Revision Requested, AEJ:Policy"
+  venue_link: ""
+  paper: Realization_Migration_Sprung-Keyser_Goodman_DNC.pdf
+
 - title: "The Radius of Economic Opportunity: Evidence from Migration and Local Labor Markets"
   authors: Ben Sprung-Keyser, Nathaniel Hendren, and Sonya Porter 
   venue_prefix: "" 
@@ -12,4 +19,7 @@
   venue_link: ""
   paper: Migration_vSI.pdf
   website: https://www.migrationpatterns.org
+
+
+
 
