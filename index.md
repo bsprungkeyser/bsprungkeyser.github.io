@@ -6,7 +6,7 @@ I am a postdoctoral research fellow at Opportunity Insights at Harvard. My curre
 
 **I am on the job market during the 2023-2024 academic year.** (JMP to be posted soon!) 
 
-I received a PhD in Economics from Harvard in 2023, an MPhil in Economics from the University of Oxford in 2017, and an AB in Economics from Harvard in 2015.
+I received a Ph.D. in Economics from Harvard in 2023, an MPhil in Economics from the University of Oxford in 2017, and an AB in Economics from Harvard in 2015.
 
 ## Publications
 {%- assign publications = site.data.publications -%}
