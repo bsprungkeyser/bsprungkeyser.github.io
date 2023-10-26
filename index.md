@@ -4,11 +4,11 @@ title: Home
 ---
 I am a postdoctoral research fellow at Opportunity Insights at Harvard. My current research is in the fields of public economics and labor economics. I am a co-director at Policy Impacts.
 
+I received a Ph.D. in Economics from Harvard in 2023, an MPhil in Economics from the University of Oxford in 2017, and an AB in Economics from Harvard in 2015.
+
 **I am on the job market during the 2023-2024 academic year.** 
 
-JMP to be posted soon! My CV is <a href="https://bsprungkeyser.com/Sprung-Keyser_CV.pdf">here</a>.
-
-I received a Ph.D. in Economics from Harvard in 2023, an MPhil in Economics from the University of Oxford in 2017, and an AB in Economics from Harvard in 2015.
+Job Market Paper to be posted soon! My CV is <a href="https://bsprungkeyser.com/Sprung-Keyser_CV.pdf">here</a>.
 
 ## Publications
 {%- assign publications = site.data.publications -%}
