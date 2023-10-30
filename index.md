@@ -8,8 +8,7 @@ I received a Ph.D. in Economics from Harvard in 2023, an MPhil in Economics from
 
 **I am on the job market during the 2023-2024 academic year.** 
 
-Job Market Paper is <a href="https://bsprungkeyser.com/assets/papers/BSK_JMP.pdf">here</a>.  My CV is <a href="https://bsprungkeyser.com/Sprung-Keyser_CV.pdf">here</a>.
-
+My job market paper is <a href="https://bsprungkeyser.com/assets/papers/BSK_JMP.pdf">here</a>.  My CV is <a href="https://bsprungkeyser.com/Sprung-Keyser_CV.pdf">here</a>.
 
 ## Job Market Paper
 {%- assign publications = site.data.jmp -%}
