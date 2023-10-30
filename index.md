@@ -19,8 +19,6 @@ Job Market Paper is <a href="https://bsprungkeyser.com/assets/papers/BSK_JMP.pdf
 {% for pub in publications %}
 * **{{ pub.title }}**  
 {{ pub.authors }}  
-{% if pub.status %}*{{ pub.status }}*  {%- endif -%}
-{% if pub.venue %}{{ pub.venue_prefix }}*{{ pub.venue }}*  {% endif %}
 {% if pub.paper %}[[Paper]]({{ papers_dir | prepend: site.baseurl | append: pub.paper }}){% endif %}
 {% endfor %}
 
