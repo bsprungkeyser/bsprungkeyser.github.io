@@ -2,7 +2,7 @@
 layout: index
 title: Home
 ---
-I am a postdoctoral research fellow at Opportunity Insights at Harvard. My current research is in the fields of public economics and labor economics. I received a Ph.D. in Economics from Harvard in 2023. I am a co-director at <a href="https://policyimpacts.org">Policy Impacts</a>.
+I am a postdoctoral research fellow at Opportunity Insights at Harvard. My current research is in the fields of public economics and labor economics. I received a PhD in Economics from Harvard in 2023. I am a co-director at <a href="https://policyimpacts.org">Policy Impacts</a>.
 
 **I am on the job market during the 2023-2024 academic year.** 
 
