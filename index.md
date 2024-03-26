@@ -4,9 +4,9 @@ title: Home
 ---
 I am a postdoctoral research fellow at Opportunity Insights at Harvard. My current research is in the fields of public economics and labor economics. I received a PhD in Economics from Harvard in 2023. I am a co-director at <a href="https://policyimpacts.org">Policy Impacts</a>.
 
-**I am on the job market during the 2023-2024 academic year.** 
+**Starting in July 2024, I will be an assistant professor in the Business Economics and Public Policy (BEPP) group at the Wharton School at the University of Pennsylvania** 
 
-My job market paper is <a href="https://bsprungkeyser.com/assets/papers/BSK_JMP.pdf">here</a>.  My CV is <a href="https://bsprungkeyser.com/Sprung-Keyser_CV.pdf">here</a>.
+My CV is <a href="https://bsprungkeyser.com/Sprung-Keyser_CV.pdf">here</a>.
 
 ## Job Market Paper
 {%- assign publications = site.data.jmp -%}
