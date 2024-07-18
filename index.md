@@ -29,7 +29,7 @@ My CV is <a href="https://bsprungkeyser.com/Sprung-Keyser_CV.pdf">here</a>.
 {% for pub in publications %}
 * **{{ pub.title }}**  
 {{ pub.authors }}  
-{% if pub.venue %}{{ pub.venue_prefix }}{{ pub.venue }}*  {% endif %}
+{% if pub.venue %}{{ pub.venue_prefix }}*{{ pub.venue }}*  {% endif %}
 {% if pub.paper %}[[Paper]]({{ papers_dir | prepend: site.baseurl | append: pub.paper }}){% endif %}
 {% if pub.slides %}[[Executive Summary]]({{ slides_dir | prepend: site.baseurl | append: pub.slides }}){% endif %}
 {% if pub.website %}[[Interactive Data Tool]]({{ pub.website }}){% endif %}
