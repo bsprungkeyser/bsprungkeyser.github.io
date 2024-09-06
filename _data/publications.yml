@@ -1,3 +1,10 @@
+- title: "A Welfare Analysis of Tax Audits Across the Income Distribution"
+  authors: William C. Boning, Nathaniel Hendren, Ben Sprung-Keyser and Ellen Stuart 
+  venue_prefix: "" 
+  venue: "Accepted, Quarterly Journal of Economics"
+  venue_link: ""
+  paper: Tax_Audits_BHSKS.pdf
+
 - title: "A Unified Welfare Analysis of Government Policies"
   authors: Nathaniel Hendren and Ben Sprung-Keyser
   venue_prefix: "" 
@@ -6,4 +13,6 @@
   paper: MVPF_Mar_2020_QJE.pdf
   slides: Welfare_Exec_Summary.pdf
   website: https://www.policyimpacts.org
+
+
 
