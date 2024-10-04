@@ -2,7 +2,7 @@
 layout: index
 title: Home
 ---
-I am an assistant professor in the Business Economics and Public Policy (BEPP) group at the Wharton School at the University of Pennsylvania. My research is in the fields of public economics and labor economics. I am a co-director at <a href="https://policyimpacts.org">Policy Impacts</a>. I received a PhD in Economics from Harvard in 2023. 
+I am an assistant professor in the Business Economics and Public Policy (BEPP) group at the Wharton School at the University of Pennsylvania. My research is in the fields of public economics and labor economics. I am a co-director at <a href="https://policyimpacts.org">Policy Impacts</a>. I received a PhD in Economics from Harvard. 
 
 My CV is <a href="https://bsprungkeyser.com/Sprung-Keyser_CV.pdf">here</a>.
 
