@@ -25,6 +25,7 @@ My CV is <a href="https://bsprungkeyser.com/Sprung-Keyser_CV.pdf">here</a>.
 {%- assign publications = site.data.working-%}
 {%- assign papers_dir = "/assets/papers/" -%}
 {%- assign slides_dir = "/assets/slides/" -%}
+{%- assign appendix_dir = "/assets/appendix/" -%}
 
 {% for pub in publications %}
 * **{{ pub.title }}**  
@@ -33,6 +34,7 @@ My CV is <a href="https://bsprungkeyser.com/Sprung-Keyser_CV.pdf">here</a>.
 {% if pub.paper %}[[Paper]]({{ papers_dir | prepend: site.baseurl | append: pub.paper }}){% endif %}
 {% if pub.slides %}[[Executive Summary]]({{ slides_dir | prepend: site.baseurl | append: pub.slides }}){% endif %}
 {% if pub.website %}[[Interactive Data Tool]]({{ pub.website }}){% endif %}
+{% if pub.appendix %}[[Online Appendix]]({{ appendix_dir | prepend: site.baseurl | append: pub.appendix }}){% endif %}
 {% endfor %}
 
 ## Notes
