@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.4.1"
+gem "jekyll", "~> 3.8.4"
 gem "jekyll-theme-hydeout", "~> 3.4"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
